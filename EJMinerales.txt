@@ -9,3 +9,4 @@ por cada paso
 -Posición(i)
 -Dirección (+/-)
 -decide si recolectar
+ HOLA NAYARAA
